@@ -1,0 +1,14 @@
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/obj/Debug/net7.0/Work4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/obj/Debug/net7.0/Work4.AssemblyInfoInputs.cache
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/obj/Debug/net7.0/Work4.AssemblyInfo.cs
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/obj/Debug/net7.0/Work4.csproj.CoreCompileInputs.cache
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/bin/Debug/net7.0/Work4
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/bin/Debug/net7.0/Work4.deps.json
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/bin/Debug/net7.0/Work4.runtimeconfig.json
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/bin/Debug/net7.0/Work4.dll
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/bin/Debug/net7.0/Work4.pdb
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/obj/Debug/net7.0/Work4.dll
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/obj/Debug/net7.0/refint/Work4.dll
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/obj/Debug/net7.0/Work4.pdb
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/obj/Debug/net7.0/Work4.genruntimeconfig.cache
+/Users/kristinanemova/Desktop/C#/Homeworks/Work4/obj/Debug/net7.0/ref/Work4.dll
