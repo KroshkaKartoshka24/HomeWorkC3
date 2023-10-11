@@ -22,17 +22,31 @@
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
 
+// System.Console.WriteLine("Введите размер массива ");
+// int a = Convert.ToInt32(System.Console.ReadLine());
+// int[] rndArr = new int[a];
+// int nech = 0;
+// for (int i = 0; i < a; i++)
+// {
+//     rndArr[i] = new Random().Next(1,9);
+//     Console.Write(rndArr[i] + " ");
+//     if ((i+1)%2 > 0)
+//     {
+//         nech = nech + rndArr[i];
+//     }
+// }
+// Console.WriteLine($"\nСумму элементов, стоящих на нечётных позициях = {nech}");
+
+// Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
+// [3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76
+
+using System.Linq;
 System.Console.WriteLine("Введите размер массива ");
 int a = Convert.ToInt32(System.Console.ReadLine());
-int[] rndArr = new int[a];
-int nech = 0;
+float[] rndArr = new float[a];
 for (int i = 0; i < a; i++)
 {
-    rndArr[i] = new Random().Next(1,9);
+    rndArr[i] = new Random().Next(-99,99) + new Random().NextSingle();
     Console.Write(rndArr[i] + " ");
-    if ((i+1)%2 > 0)
-    {
-        nech = nech + rndArr[i];
-    }
 }
-Console.WriteLine($"\nСумму элементов, стоящих на нечётных позициях = {nech}");
+Console.WriteLine($"\nРазница между максимальным и минимальным элементами массива = {rndArr.Max() - rndArr.Min()}");
